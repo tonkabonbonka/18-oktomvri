@@ -1,1 +1,1 @@
-# 18-oktomvri
+Probna programa za hello world
